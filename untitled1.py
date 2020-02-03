@@ -11,4 +11,4 @@ while(True):
         break
 
 cap.release()
-cv2.destroyWindow("1") # или cv2.destroyAllWindows()
+cv2.destroyWindow("1") # or cv2.destroyAllWindows()
